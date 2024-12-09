@@ -3,10 +3,10 @@ site_author: Scott Wilcox
 site_description: >-
   Site Description
 repo_name: blog
-repo_url: https://github.com/jxnl/blog/
-site_url: https://jxnl.co/
+repo_url: https://github.com/Here-and-Tomorrow-LLC/hat-blog
+site_url: https://hereandtomorrow.com
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2024 Here and Tomorrow
 theme:
   name: material
   icon:
@@ -140,9 +140,9 @@ extra:
     property: G-XXXX
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/jxnlco # TODO: add link
+      link: https://twitter.com/hereandtomorrow # TODO: add link
     - icon: fontawesome/brands/github
-      link: https://github.com/jxnl # TODO: add link
+      link: https://github.com/scottHAT # TODO: add link
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -150,4 +150,4 @@ extra_javascript:
   - javascripts/analytics.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
+copyright: Copyright &copy; 2024 Here and Tomorrow
