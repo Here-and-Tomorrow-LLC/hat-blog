@@ -2,5 +2,6 @@
 venv
 .env
 .DS_Store
-.terraform*
-terraform*
+infra/.terraform*
+infra/terraform*
+infra/.terraform.lock.hcl
