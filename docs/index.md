@@ -1,4 +1,4 @@
-# Services
+# Scott Wilcox, Fractional CTO
 
 If you're facing any of these challenges, I can help:
 
@@ -25,5 +25,5 @@ An experienced technical consultant specializing in AI implementation and optimi
 - Implement best practices for long-term success
 - Enable teams with the right tools and knowledge
 
-[Schedule a Consultation](https://cal.com/your-handle){ .md-button .md-button--primary }
+[Schedule a Consultation](https://cal.com/scott-wilcox){ .md-button .md-button--primary }
 [Read the Blog](./blog/index.md){ .md-button }

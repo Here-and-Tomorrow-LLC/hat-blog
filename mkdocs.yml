@@ -9,13 +9,13 @@ edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Here and Tomorrow
 nav:
   - Home: index.md
-  - Services: services.md  # This is your main services page
+  - Consulting: consulting.md
   - Blog: 
     - blog/index.md
     - Posts: blog/posts/
 theme:
   name: material
-  logo: assets/logo.png  # Path relative to docs/ directory
+  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
@@ -66,7 +66,46 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+# Add these markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
   - stylesheets/custom.css
-# Rest of your existing configuration remains the same...
