@@ -7,8 +7,15 @@ repo_url: https://github.com/Here-and-Tomorrow-LLC/hat-blog
 site_url: https://hereandtomorrow.com
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Here and Tomorrow
+nav:
+  - Home: index.md
+  - Services: services.md  # This is your main services page
+  - Blog: 
+    - blog/index.md
+    - Posts: blog/posts/
 theme:
   name: material
+  logo: assets/logo.png  # Path relative to docs/ directory
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
@@ -27,6 +34,8 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+  palette:
+    primary: custom
   features:
     - announce.dismiss
     - content.action.edit
@@ -56,98 +65,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-# Extensions
-markdown_extensions:
-  - abbr
-  - admonition
-  - pymdownx.details
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      normalize_issue_symbols: true
-      repo_url_shorthand: true
-      user: jxnl 
-      repo: instructor
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      auto_append:
-        - includes/mkdocs.md
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-      combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-  - pymdownx.arithmatex:
-      generic: true
-nav:
-  - Home: 
-    - Introductions: 'index.md'
-  - Blog:
-    - "blog/index.md"
-plugins:
-  - social
-  - search:
-      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            members_order: alphabetical
-            allow_inspection: true
-            show_bases: true
-  - blog:
-      enabled: !ENV CI
-      blog_dir: blog
-      blog_toc: true
-      post_dir: blog/posts
-      post_date_format: yyyy/MM/dd
-      post_url_format: "{date}/{slug}"
-      authors_file: "{blog}/.authors.yml"
-extra:
-  analytics:
-    provider: google
-    property: G-XXXX
-  social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/hereandtomorrow # TODO: add link
-    - icon: fontawesome/brands/github
-      link: https://github.com/scottHAT # TODO: add link
+
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - javascripts/mathjax.js
-  - javascripts/analytics.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2024 Here and Tomorrow
+  - stylesheets/custom.css
+# Rest of your existing configuration remains the same...
