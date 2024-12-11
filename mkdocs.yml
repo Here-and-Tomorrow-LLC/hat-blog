@@ -2,8 +2,7 @@ site_name: Here and Tomorrow
 site_author: Scott Wilcox
 site_description: >-
   Site Description
-repo_name: blog
-repo_url: https://github.com/Here-and-Tomorrow-LLC/hat-blog
+
 site_url: https://hereandtomorrow.com
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Here and Tomorrow
