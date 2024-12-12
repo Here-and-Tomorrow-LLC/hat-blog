@@ -26,7 +26,7 @@ My experience combines deep technical expertise with proven business impact:
   - Algorithmic recommendations for 250,000+ attendees
   - Custom chatbot reducing support costs by 60%
   - Real-time systems processing millions of transactions
-
+  
 - **Here and Tomorrow (Current)**: Advising enterprises on AI implementation:
   - RAG-based chatbots and AI assistants
   - LLM integration and safety testing
@@ -56,10 +56,10 @@ I offer three flexible ways to work together:
     - Long-term transformation
 
 All engagements include:
-- Clear success metrics
-- Regular progress reviews
-- Documentation & knowledge transfer
-- Risk mitigation strategies
+-Clear success metrics
+-Regular progress reviews
+-Documentation & knowledge transfer
+-Risk mitigation strategies
 
 ## Select Clients
 

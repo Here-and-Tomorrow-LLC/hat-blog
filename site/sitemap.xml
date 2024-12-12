@@ -2,26 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hereandtomorrow.com/</loc>
-         <lastmod>2024-12-09</lastmod>
+         <lastmod>2024-12-12</lastmod>
     </url>
     <url>
-         <loc>https://hereandtomorrow.com/services/</loc>
-         <lastmod>2024-12-09</lastmod>
-    </url>
-    <url>
-         <loc>https://hereandtomorrow.com/writing-samples/</loc>
-         <lastmod>2024-12-09</lastmod>
+         <loc>https://hereandtomorrow.com/consulting/</loc>
+         <lastmod>2024-12-12</lastmod>
     </url>
     <url>
          <loc>https://hereandtomorrow.com/blog/</loc>
-         <lastmod>2024-12-09</lastmod>
+         <lastmod>2024-12-12</lastmod>
     </url>
     <url>
-         <loc>https://hereandtomorrow.com/blog/2024/12/04/understanding-the-aida-formula-a-key-to-effective-marketing/</loc>
-         <lastmod>2024-12-09</lastmod>
+         <loc>https://hereandtomorrow.com/blog/posts/example/</loc>
+         <lastmod>2024-12-12</lastmod>
     </url>
     <url>
-         <loc>https://hereandtomorrow.com/blog/archive/2024/</loc>
-         <lastmod>2024-12-09</lastmod>
+         <loc>https://hereandtomorrow.com/blog/posts/test/</loc>
+         <lastmod>2024-12-12</lastmod>
     </url>
 </urlset>
