@@ -124,6 +124,30 @@ To address length concerns with illustrated editions stretching to 1000+ pages, 
 
 We're excited to share these reimagined classics with you at [novelminds.ai](https://novelminds.ai).
 
+# Start Your Enhanced Reading Journey Today
+
+Explore our collection of illustrated classics at [NovelMinds.ai](https://novelminds.ai). Choose from beloved titles like:
+
+- [Around the World in 80 Days](https://novelminds.ai/AroundTheWorldIn80Days)
+- [Through the Looking Glass](https://novelminds.ai/ThroughTheLookingGlass)
+- [Pride and Prejudice](https://novelminds.ai/PrideAndPrejudice)
+- [The Great Gatsby](https://novelminds.ai/TheGreatGatsby)
+- [Frankenstein](https://novelminds.ai/Frankenstein)
+- [The Art of War](https://novelminds.ai/TheArtOfWar)
+- [The War of the Worlds](https://novelminds.ai/TheWarOfTheWorlds)
+- [Jane Eyre](https://novelminds.ai/JaneEyre)
+- [The Odyssey](https://novelminds.ai/TheOdyssey)
+- [The Time Machine](https://novelminds.ai/TheTimeMachine)
+- [Dubliners](https://novelminds.ai/Dubliners)
+- [Wizard of Oz](https://novelminds.ai/WizardOfOz)
+- [Edgar Allan Poe](https://novelminds.ai/EdgarAllenPoe)
+- [The Scarlet Letter](https://novelminds.ai/TheScarletLetter)
+- [Alice’s Adventures in Wonderland](https://novelminds.ai/AlicesAdventuresInWonderland)
+- [The Great Gatsby](https://novelminds.ai/TheGreatGatsby)
+
+...and more!
+
+
 ### Connect With Us
 
 **Twitter**: [@NeuralNets4Life](https://twitter.com/NeuralNets4Life) & [@hereandtomorrow](https://twitter.com/hereandtomorrow)
