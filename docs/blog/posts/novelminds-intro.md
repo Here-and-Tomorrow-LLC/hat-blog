@@ -1,6 +1,7 @@
 ---
 date: 2024-12-11
-authors: [me]
+authors:
+  - me    # This should match the key in .authors.yml
 categories:
   - Novel Minds
 tags:
@@ -9,6 +10,7 @@ tags:
   - AI
   - Literature
 ---
+
 
 # Solve Your Image Generation Accuracy with VLM Rejection Sampling
 
