@@ -6,7 +6,7 @@ repo_name: hat-blog
 repo_url: https://github.com/scottHAT/hat-blog  
 site_url: https://hereandtomorrow.com
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Here and Tomorrow
+copyright: Copyright &copy; 2024 Here and Tomorrow LLC
 nav:
   - Home: index.md
   - Consulting: consulting.md

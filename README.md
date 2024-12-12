@@ -8,7 +8,8 @@ A good habit is to make this your routine:
 Write/edit content
 Test locally with mkdocs serve
 Commit and push to main
-Deploy with mkdocs gh-deploy
+Deploy with
+mkdocs gh-deploy --force
 
 
 ----
