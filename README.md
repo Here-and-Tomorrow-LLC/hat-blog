@@ -1,10 +1,14 @@
-where I am:
-built our infra to cloudfront and then destroyed until I get copy edited on pages.  Once edited and ready to push to AWS then get certificate for https, then repoint domain from current site. Then take down hat-agent.
-
-idea - what if you could see the output of a agentic system and I would use the standard out to show people what it could do.
+legacy infra we are not using because using github pages instead
 
 
 
+
+A good habit is to make this your routine:
+
+Write/edit content
+Test locally with mkdocs serve
+Commit and push to main
+Deploy with mkdocs gh-deploy
 
 
 ----
