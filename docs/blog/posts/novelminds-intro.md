@@ -56,21 +56,24 @@ While reviewing the variations, several issues became apparent:
 
 ### Solutions Implemented
 
-To improve the reading experience, we focused on several key areas:
+To improve the reading experience, we focused on three critical areas:
 
-1. **Historical Accuracy**
-   * Eliminated anachronistic elements
-   * Maintained period-appropriate details
+#### 1. Historical Accuracy
+* Eliminated anachronistic elements like modern vehicles in 1800s scenes
+* Maintained period-appropriate details in clothing, architecture, and technology
+* Ensured all visual elements matched the book's time period
 
-2. **Character Consistency**
-   * Used ChatGPT 4o for character summaries
-   * Implemented appositive descriptions
-   * Maintained visual consistency across illustrations
+#### 2. Character Consistency
+* Leveraged ChatGPT 4o to create detailed character profiles
+* Developed systematic approaches for character appearance continuity
+* Maintained visual consistency across all illustrations
 
-3. **Visual Style**
-   * Adopted line-art for consistent rendering
-   * Optimized for various devices (tablets, Kindles, laptops)
-   * Used Stability 1XL for cost-effective iteration
+#### 3. Visual Style
+* Implemented clean line-art style for:
+  * Consistent rendering across all devices
+  * Better display on e-ink screens
+  * Reduced generation costs with Stability 1XL
+
 
 ## Technical Implementation
 
@@ -123,7 +126,8 @@ We're excited to share these reimagined classics with you at [novelminds.ai](htt
 
 ### Connect With Us
 
-* **Twitter**: [@NeuralNets4Life](https://twitter.com/NeuralNets4Life) & [@hereandtomorrow](https://twitter.com/hereandtomorrow)
-* **Email**:
-  * Jason: [jgmath2000@gmail.com](mailto:jgmath2000@gmail.com)
-  * Scott: [scott@hereandtomorrow.com](mailto:scott@hereandtomorrow.com)
+**Twitter**: [@NeuralNets4Life](https://twitter.com/NeuralNets4Life) & [@hereandtomorrow](https://twitter.com/hereandtomorrow)
+
+**Email**:
+  Jason: [jgmath2000@gmail.com](mailto:jgmath2000@gmail.com),
+  Scott: [scott@hereandtomorrow.com](mailto:scott@hereandtomorrow.com)
