@@ -1,5 +1,5 @@
 ---
-date: 2024-12-11
+date: 2024-12-12
 authors:
   - me    # This should match the key in .authors.yml
 categories:

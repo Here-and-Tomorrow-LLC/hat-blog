@@ -1,4 +1,4 @@
-# Scott Wilcox, AI & Technology Executive
+# Scott Wilcox, Advisor / Consultant / CTO
 
 If you're facing any of these challenges, I can help:
 
