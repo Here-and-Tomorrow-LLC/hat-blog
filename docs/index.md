@@ -2,11 +2,12 @@
 
 If you're facing any of these challenges, I can help:
 
-- **Fractional CTO Leadership**: Lacking technical strategy, vision, and leadership to guide your teams or projects to success.  
-- **AI Product Development Roadblocks**: Struggling to conceptualize, build, and launch AI products like assistants, RAG pipelines, or enterprise tools.  
-- **Prototyping AI Systems**: Need rapid development of AI prototypes to test ideas, validate concepts, and accelerate product innovation using LLMs, RAG pipelines, and generative AI technologies.
-- **Integration Challenges**: Need seamless AI integration into existing workflows, infrastructure, and business processes.  
-- **Event Technology Innovation**: Navigating large-scale technology deployment for events, streaming platforms, and personalized user experiences.
+- **"We need tech leadership, but can't justify a full-time CTO"**: Get fractional executive guidance to build strategy, align teams, and drive successful outcomes.
+- **"Our AI product is stuck in development limbo"**: Break through roadblocks to get your AI assistants, RAG systems, and enterprise tools from concept to launch.
+- **"We can't move fast enough from AI ideas to working prototypes"**: Rapidly validate concepts and accelerate innovation with battle-tested LLM and generative AI approaches.
+- **"Our AI solutions aren't fitting into our existing systems"**: Seamlessly integrate AI capabilities into your workflows and infrastructure without disrupting operations.
+- **"Our large-scale events need better tech solutions"**: Navigate complex technology deployments for events, streaming, and personalized experiences with confidence.
+
 
 ## Recent Client Success Stories
 

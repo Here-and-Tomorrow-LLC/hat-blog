@@ -56,10 +56,11 @@ I offer three flexible ways to work together:
     - Long-term transformation
 
 All engagements include:
--Clear success metrics
--Regular progress reviews
--Documentation & knowledge transfer
--Risk mitigation strategies
+
+- Clear success metrics
+- Regular progress reviews
+- Documentation & knowledge transfer
+- Risk mitigation strategies
 
 ## Select Clients
 
@@ -90,4 +91,3 @@ I'm committed to helping you succeed. While I can't guarantee specific outcomes,
 - Accelerate your path to success
 
 [Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }
-[View Case Studies](./case-studies.md){ .md-button }

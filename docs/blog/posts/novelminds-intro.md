@@ -34,7 +34,7 @@ After determining that a full-fledged custom EPUB reader with advanced connectiv
 2. *Through the Looking Glass* by Lewis Carroll
 3. *Pride and Prejudice* by Jane Austen
 
-The choice of *Around the World in 80 Days* was particularly compelling due to its rich variety of settings, era-specific atmosphere, and memorable adventures.
+The choice of *Around the World in 80 Days* was particularly compelling due to its era-specific atmosphere, world adventures, and our fond memories of reading it in our childhood.
 
 ### Early Challenges
 
