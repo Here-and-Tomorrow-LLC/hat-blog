@@ -47,8 +47,7 @@ The choice of *Around the World in 80 Days* was particularly compelling due to i
 
 Our first breakthrough came quickly - successfully injecting a single image into an EPUB. The next day, Jason expanded this dramatically, producing 21 versions of *Around the World in 80 Days* using various models:
 
-* Stability (1.0, 3.0, Core, Core with styles)
-* DALLE-2
+* Stability (1.0, 3.0, Core, Core with styles)   * DALLE-2
 
 ## Refining the Process
 
@@ -87,7 +86,7 @@ To improve the reading experience, we focused on three critical areas:
 ### Quality Control System
 
 ![VLM rejection sampling process visualization](/assets/animated_throughthelookingglass_1.gif)
-*Our VLM-based quality control process in action*
+*Our VLM-based quality control was key*
 
 During our iteration phase with *Through the Looking Glass*, *The Great Gatsby*, and *The Metamorphosis*, we encountered various rendering challenges:
 
@@ -102,6 +101,7 @@ Our solution? **VLM-based quality control**:
 2. VLM analysis of critical details
 3. Accept or reject based on quality criteria
 4. Regenerate failed images
+
 
 ### Technology Stack
 
@@ -139,24 +139,25 @@ We're excited to share these reimagined classics with you at [novelminds.ai](htt
 ![Showcase of illustrated classics](/assets/animated_mobydick.gif)
 *Experience our collection of reimagined classics*
 
+
 Explore our collection of illustrated classics at [NovelMinds.ai](https://novelminds.ai). Choose from beloved titles like:
 
-- [Around the World in 80 Days](https://novelminds.ai/80_days)
-- [Through the Looking Glass](https://novelminds.ai/ThroughTheLookingGlass)
-- [Pride and Prejudice](https://novelminds.ai/PrideAndPrejudice)
-- [The Great Gatsby](https://novelminds.ai/TheGreatGatsby)
-- [Frankenstein](https://novelminds.ai/Frankenstein)
-- [The Art of War](https://novelminds.ai/TheArtOfWar)
-- [The War of the Worlds](https://novelminds.ai/TheWarOfTheWorlds)
-- [Jane Eyre](https://novelminds.ai/JaneEyre)
-- [The Odyssey](https://novelminds.ai/TheOdyssey)
-- [The Time Machine](https://novelminds.ai/TheTimeMachine)
-- [Dubliners](https://novelminds.ai/Dubliners)
-- [Wizard of Oz](https://novelminds.ai/WizardOfOz)
-- [Edgar Allan Poe](https://novelminds.ai/EdgarAllenPoe)
-- [The Scarlet Letter](https://novelminds.ai/TheScarletLetter)
-- [Alice’s Adventures in Wonderland](https://novelminds.ai/AlicesAdventuresInWonderland)
-- [The Great Gatsby](https://novelminds.ai/TheGreatGatsby)
+- [Around the World in 80 Days](https://www.novelminds.ai/book/80_Days)
+- [Through the Looking Glass](https://www.novelminds.ai/book/ThroughTheLookingGlass)
+- [Pride and Prejudice](https://www.novelminds.ai/book/PrideAndPrejudice)
+- [The Great Gatsby](https://www.novelminds.ai/book/TheGreatGatsby)
+- [Frankenstein](https://www.novelminds.ai/book/Frankenstein)
+- [The Art of War](https://www.novelminds.ai/book/TheArtOfWar)
+- [The War of the Worlds](https://www.novelminds.ai/book/TheWarOfTheWorlds)
+- [Jane Eyre](https://www.novelminds.ai/book/JaneEyre)
+- [The Odyssey](https://www.novelminds.ai/book/TheOdyssey)
+- [The Time Machine](https://www.novelminds.ai/book/TheTimeMachine)
+- [Dubliners](https://www.novelminds.ai/book/Dubliners)
+- [The Wizard of Oz](https://www.novelminds.ai/book/TheWizardofOz)
+- [The Works of Edgar Allan Poe](https://www.novelminds.ai/book/TheWorksofEdgarAllanPoe)
+- [The Scarlet Letter](https://www.novelminds.ai/book/TheScarletLetter)
+- [Alice's Adventures in Wonderland](https://www.novelminds.ai/book/AlicesAdventuresinWonderland)
+- [The Great Gatsby](https://www.novelminds.ai/book/The_Great_Gatsby)
 
 ...and more!
 

@@ -711,7 +711,7 @@
     <div class="md-post__meta md-meta">
       <ul class="md-meta__list">
         <li class="md-meta__item">
-          <time datetime="2024-12-11 00:00:00+00:00">2024/12/11</time></li>
+          <time datetime="2024-12-12 00:00:00+00:00">2024/12/12</time></li>
         
           <li class="md-meta__item">
             in
@@ -722,7 +722,7 @@
           
           <li class="md-meta__item">
             
-              3 min read
+              4 min read
             
           </li>
         
@@ -731,8 +731,11 @@
     </div>
   </header>
   <div class="md-post__content md-typeset">
-    <h2 id="solve-your-image-generation-accuracy-with-vlm-rejection-sampling"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/">Solve Your Image Generation Accuracy with VLM Rejection Sampling</a></h2>
-<h3 id="the-genesis-of-an-idea"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#the-genesis-of-an-idea">The Genesis of an Idea</a></h3>
+    <h2 id="solve-your-image-generation-accuracy-with-vlm-rejection-sampling"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/">Solve Your Image Generation Accuracy with VLM Rejection Sampling</a></h2>
+<h3 id="the-genesis-of-an-idea"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#the-genesis-of-an-idea">The Genesis of an Idea</a></h3>
+<!-- Image with caption -->
+<p><img alt="Book pages transforming into illustrations" src="/assets/animated_80_days.gif" />
+<em>Traditional books transforming into illustrated experiences</em></p>
 <p>It was a hot morning towards the end of the summer when we met at Mozart's in Austin, Texas to catch up and share ideas. Over coffee, we discussed our shared love of reading and pondered: <em>wouldn't it be cool to read a book and see the image of what we were reading?</em> While e-readers have transformed where we read, the fundamental reading experience hasn't evolved much. With LLMs becoming multi-modal and image generation improving daily, we saw an opportunity.</p>
 <blockquote>
 <p>We wondered: Do people read anymore?</p>
@@ -743,8 +746,8 @@
 <li>Could we do this easily for any book?</li>
 <li>What might we learn in the process?</li>
 </ul>
-<h3 id="from-concept-to-mvp"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#from-concept-to-mvp">From Concept to MVP</a></h3>
-<h4 id="initial-prototyping"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#initial-prototyping">Initial Prototyping</a></h4>
+<h3 id="from-concept-to-mvp"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#from-concept-to-mvp">From Concept to MVP</a></h3>
+<h4 id="initial-prototyping"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#initial-prototyping">Initial Prototyping</a></h4>
 <p>After determining that a full-fledged custom EPUB reader with advanced connectivity for on-demand image generation might be too ambitious for our MVP, we narrowed our focus. We decided to start with public domain classics, ultimately selecting:</p>
 <ol>
 <li><em>Around the World in 80 Days</em> by Jules Verne</li>
@@ -752,14 +755,13 @@
 <li><em>Pride and Prejudice</em> by Jane Austen</li>
 </ol>
 <p>The choice of <em>Around the World in 80 Days</em> was particularly compelling due to its era-specific atmosphere, world adventures, and our fond memories of reading it in our childhood.</p>
-<h4 id="early-challenges"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#early-challenges">Early Challenges</a></h4>
+<h4 id="early-challenges"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#early-challenges">Early Challenges</a></h4>
 <p>Our first breakthrough came quickly - successfully injecting a single image into an EPUB. The next day, Jason expanded this dramatically, producing 21 versions of <em>Around the World in 80 Days</em> using various models:</p>
 <ul>
-<li>Stability (1.0, 3.0, Core, Core with styles)</li>
-<li>DALLE-2</li>
+<li>Stability (1.0, 3.0, Core, Core with styles)   * DALLE-2</li>
 </ul>
-<h3 id="refining-the-process"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#refining-the-process">Refining the Process</a></h3>
-<h4 id="identifying-problems"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#identifying-problems">Identifying Problems</a></h4>
+<h3 id="refining-the-process"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#refining-the-process">Refining the Process</a></h3>
+<h4 id="identifying-problems"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#identifying-problems">Identifying Problems</a></h4>
 <p>While reviewing the variations, several issues became apparent:</p>
 <ul>
 <li>Inconsistent era representation</li>
@@ -767,29 +769,31 @@
 <li>Fluctuating visual styles</li>
 <li>Reader immersion breaking</li>
 </ul>
-<h4 id="solutions-implemented"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#solutions-implemented">Solutions Implemented</a></h4>
+<h4 id="solutions-implemented"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#solutions-implemented">Solutions Implemented</a></h4>
 <p>To improve the reading experience, we focused on three critical areas:</p>
-<h5 id="1-historical-accuracy"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#1-historical-accuracy">1. Historical Accuracy</a></h5>
+<h5 id="1-historical-accuracy"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#1-historical-accuracy">1. Historical Accuracy</a></h5>
 <ul>
 <li>Eliminated anachronistic elements like modern vehicles in 1800s scenes</li>
 <li>Maintained period-appropriate details in clothing, architecture, and technology</li>
 <li>Ensured all visual elements matched the book's time period</li>
 </ul>
-<h5 id="2-character-consistency"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#2-character-consistency">2. Character Consistency</a></h5>
+<h5 id="2-character-consistency"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#2-character-consistency">2. Character Consistency</a></h5>
 <ul>
 <li>Leveraged ChatGPT 4o to create detailed character profiles</li>
 <li>Developed systematic approaches for character appearance continuity</li>
 <li>Maintained visual consistency across all illustrations</li>
 </ul>
-<h5 id="3-visual-style"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#3-visual-style">3. Visual Style</a></h5>
+<h5 id="3-visual-style"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#3-visual-style">3. Visual Style</a></h5>
 <ul>
 <li>Implemented clean line-art style for:</li>
 <li>Consistent rendering across all devices</li>
 <li>Better display on e-ink screens</li>
 <li>Reduced generation costs with Stability 1XL</li>
 </ul>
-<h3 id="technical-implementation"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#technical-implementation">Technical Implementation</a></h3>
-<h4 id="quality-control-system"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#quality-control-system">Quality Control System</a></h4>
+<h3 id="technical-implementation"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#technical-implementation">Technical Implementation</a></h3>
+<h4 id="quality-control-system"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#quality-control-system">Quality Control System</a></h4>
+<p><img alt="VLM rejection sampling process visualization" src="/assets/animated_throughthelookingglass_1.gif" />
+<em>Our VLM-based quality control was key</em></p>
 <p>During our iteration phase with <em>Through the Looking Glass</em>, <em>The Great Gatsby</em>, and <em>The Metamorphosis</em>, we encountered various rendering challenges:</p>
 <ul>
 <li>Animal heads on people</li>
@@ -804,7 +808,7 @@
 <li>Accept or reject based on quality criteria</li>
 <li>Regenerate failed images</li>
 </ol>
-<h4 id="technology-stack"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#technology-stack">Technology Stack</a></h4>
+<h4 id="technology-stack"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#technology-stack">Technology Stack</a></h4>
 <p>We eventually settled on:</p>
 <ul>
 <li><strong>Image Generation</strong>: Flux.1-dev</li>
@@ -813,24 +817,47 @@
 <li>OpenAI 4o</li>
 <li>Llama 3</li>
 </ul>
-<h3 id="final-touches"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#final-touches">Final Touches</a></h3>
-<h4 id="book-covers"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#book-covers">Book Covers</a></h4>
+<h3 id="final-touches"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#final-touches">Final Touches</a></h3>
+<h4 id="book-covers"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#book-covers">Book Covers</a></h4>
 <ul>
 <li>Generated multiple options with integrated titles</li>
 <li>Used VLM for spell-checking</li>
 <li>Created five variants per title</li>
 <li>Selected favorites based on aesthetic appeal</li>
 </ul>
-<h4 id="abridged-versions"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#abridged-versions">Abridged Versions</a></h4>
+<h4 id="abridged-versions"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#abridged-versions">Abridged Versions</a></h4>
 <p>To address length concerns with illustrated editions stretching to 1000+ pages, we created abridged versions that:</p>
 <ul>
 <li>Capture the essential story</li>
 <li>Maintain narrative integrity</li>
 <li>Provide single-sitting reading experiences</li>
 </ul>
-<h3 id="join-us-on-this-journey"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#join-us-on-this-journey">Join Us on This Journey</a></h3>
+<h3 id="join-us-on-this-journey"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#join-us-on-this-journey">Join Us on This Journey</a></h3>
 <p>We're excited to share these reimagined classics with you at <a href="https://novelminds.ai">novelminds.ai</a>.</p>
-<h4 id="connect-with-us"><a class="toclink" href="../../2024/12/11/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#connect-with-us">Connect With Us</a></h4>
+<h2 id="start-your-enhanced-reading-journey-today"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#start-your-enhanced-reading-journey-today">Start Your Enhanced Reading Journey Today</a></h2>
+<p><img alt="Showcase of illustrated classics" src="/assets/animated_mobydick.gif" />
+<em>Experience our collection of reimagined classics</em></p>
+<p>Explore our collection of illustrated classics at <a href="https://novelminds.ai">NovelMinds.ai</a>. Choose from beloved titles like:</p>
+<ul>
+<li><a href="https://www.novelminds.ai/book/80_Days">Around the World in 80 Days</a></li>
+<li><a href="https://www.novelminds.ai/book/ThroughTheLookingGlass">Through the Looking Glass</a></li>
+<li><a href="https://www.novelminds.ai/book/PrideAndPrejudice">Pride and Prejudice</a></li>
+<li><a href="https://www.novelminds.ai/book/TheGreatGatsby">The Great Gatsby</a></li>
+<li><a href="https://www.novelminds.ai/book/Frankenstein">Frankenstein</a></li>
+<li><a href="https://www.novelminds.ai/book/TheArtOfWar">The Art of War</a></li>
+<li><a href="https://www.novelminds.ai/book/TheWarOfTheWorlds">The War of the Worlds</a></li>
+<li><a href="https://www.novelminds.ai/book/JaneEyre">Jane Eyre</a></li>
+<li><a href="https://www.novelminds.ai/book/TheOdyssey">The Odyssey</a></li>
+<li><a href="https://www.novelminds.ai/book/TheTimeMachine">The Time Machine</a></li>
+<li><a href="https://www.novelminds.ai/book/Dubliners">Dubliners</a></li>
+<li><a href="https://www.novelminds.ai/book/TheWizardofOz">The Wizard of Oz</a></li>
+<li><a href="https://www.novelminds.ai/book/TheWorksofEdgarAllanPoe">The Works of Edgar Allan Poe</a></li>
+<li><a href="https://www.novelminds.ai/book/TheScarletLetter">The Scarlet Letter</a></li>
+<li><a href="https://www.novelminds.ai/book/AlicesAdventuresinWonderland">Alice's Adventures in Wonderland</a></li>
+<li><a href="https://www.novelminds.ai/book/The_Great_Gatsby">The Great Gatsby</a></li>
+</ul>
+<p>...and more!</p>
+<h4 id="connect-with-us"><a class="toclink" href="../../2024/12/12/solve-your-image-generation-accuracy-with-vlm-rejection-sampling/#connect-with-us">Connect With Us</a></h4>
 <p><strong>Twitter</strong>: <a href="https://twitter.com/NeuralNets4Life">@NeuralNets4Life</a> &amp; <a href="https://twitter.com/hereandtomorrow">@hereandtomorrow</a></p>
 <p><strong>Email</strong>:
   Jason: <a href="mailto:jgmath2000@gmail.com">jgmath2000@gmail.com</a>,
@@ -914,7 +941,7 @@
       <div class="md-copyright">
   
     <div class="md-copyright__highlight">
-      Copyright &copy; 2024 Here and Tomorrow
+      Copyright &copy; 2024 Here and Tomorrow LLC
     </div>
   
   
