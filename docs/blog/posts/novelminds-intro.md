@@ -18,7 +18,7 @@ tags:
 
 
 <!-- Image with caption -->
-![Book pages transforming into illustrations](../assets/animated_80_days.gif)
+![Book pages transforming into illustrations](/assets/animated_80_days.gif)
 *Traditional books transforming into illustrated experiences*
 
 It was a hot morning towards the end of the summer when we met at Mozart's in Austin, Texas to catch up and share ideas. Over coffee, we discussed our shared love of reading and pondered: *wouldn't it be cool to read a book and see the image of what we were reading?* While e-readers have transformed where we read, the fundamental reading experience hasn't evolved much. With LLMs becoming multi-modal and image generation improving daily, we saw an opportunity.
@@ -86,7 +86,7 @@ To improve the reading experience, we focused on three critical areas:
 
 ### Quality Control System
 
-![VLM rejection sampling process visualization](../assets/animated_throughthelookingglass_1.gif)
+![VLM rejection sampling process visualization](/assets/animated_throughthelookingglass_1.gif)
 *Our VLM-based quality control process in action*
 
 During our iteration phase with *Through the Looking Glass*, *The Great Gatsby*, and *The Metamorphosis*, we encountered various rendering challenges:
@@ -136,7 +136,7 @@ We're excited to share these reimagined classics with you at [novelminds.ai](htt
 
 # Start Your Enhanced Reading Journey Today
 
-![Showcase of illustrated classics](../assets/animated_mobydick.gif)
+![Showcase of illustrated classics](/assets/animated_mobydick.gif)
 *Experience our collection of reimagined classics*
 
 Explore our collection of illustrated classics at [NovelMinds.ai](https://novelminds.ai). Choose from beloved titles like:
