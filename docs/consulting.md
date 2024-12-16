@@ -91,4 +91,4 @@ I'm committed to helping you succeed. While I can't guarantee specific outcomes,
 * Help you avoid costly mistakes
 * Accelerate your path to success
 
-[Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }
+[Schedule a Free Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }
