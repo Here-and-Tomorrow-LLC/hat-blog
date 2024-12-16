@@ -1,11 +1,13 @@
 # Blog
 
-Welcome to my technical blog where I share insights about:
+Welcome to my blog where I share insights about:
 
-- AI System Implementation
-- Technical Architecture Design
-- Performance Optimization
-- Team Enablement
+- AI Strategy & Implementation
+- Architecture & Systems
+- Technical Leadership
+- Product Development
+
+
 
 
 

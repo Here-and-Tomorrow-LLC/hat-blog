@@ -85,9 +85,10 @@ I've helped organizations across industries drive technological innovation:
 ## Let's Work Together
 
 I'm committed to helping you succeed. While I can't guarantee specific outcomes, I promise to:
-- Provide clear, actionable guidance
-- Focus on practical solutions
-- Help you avoid costly mistakes
-- Accelerate your path to success
+
+* Provide clear, actionable guidance
+* Focus on practical solutions 
+* Help you avoid costly mistakes
+* Accelerate your path to success
 
 [Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }
