@@ -2,17 +2,21 @@
 
 If you're facing any of these challenges, I can help:
 
+
+- **"We know AI could transform our business, but don't know where to start"**:
+Get clear, actionable roadmaps that identify high-ROI AI opportunities and guide your organization from strategy through implementation.
+
 - **"We need tech leadership, but can't justify a full-time CTO"**:
 Get fractional executive guidance to build strategy, align teams, and drive successful outcomes.
-
-- **"Our AI product is stuck in development limbo"**:   
- Break through roadblocks to get your AI assistants, RAG systems, and enterprise tools from concept to launch.
 
 - **"We can't move fast enough from AI ideas to working prototypes"**:
 Rapidly validate concepts and accelerate innovation with battle-tested LLM and generative AI approaches.
 
-- **"Our AI solutions aren't fitting into our existing systems"**:
-Seamlessly integrate AI capabilities into your workflows and infrastructure without disrupting operations.
+- **"Our AI product is stuck in development limbo"**:   
+ Break through roadblocks to get your AI assistants, RAG systems, and enterprise tools from concept to launch.
+
+- **"I'm a non-technical founder navigating AI product decisions"**:
+Bridge the technical knowledge gap with strategic guidance that translates complex AI choices into clear business decisions and successful launches.
 
 - **"Our large-scale events need better tech solutions"**:
 Navigate complex technology deployments for events, streaming, and personalized experiences with confidence.
