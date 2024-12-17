@@ -37,17 +37,18 @@ My experience combines deep technical expertise with proven business impact:
 
 I offer three flexible ways to work together:
 
-1. **Advisory Services** ($8,000/month)
+1. **Advisory Services** ($5,000/month)
     - Weekly strategic sessions
     - Unlimited email/Slack access
-    - Access to expert network
+    - Preliminary roadmap planning
     - Technical architecture review
 
-2. **Strategic Projects** (Starting $35k)
+2. **Strategic Projects** (Starting $25k)
     - Defined scope and outcomes
     - Technical leadership
     - Team augmentation
     - Implementation support
+    - Access to expert network
 
 3. **Comprehensive Consulting** (Starting $75k)
     - Full technical partnership
