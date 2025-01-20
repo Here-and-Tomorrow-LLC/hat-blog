@@ -50,5 +50,6 @@ An **AI & Technology Executive** with over 25 years of experience building scala
 
 I work with startups, enterprises, and government organizations to deliver **impactful solutions** that unlock growth, reduce costs, and drive innovation.
 
+Contact me at: [scott@hereandtomorrow.com](mailto:scott@hereandtomorrow.com)
 <!-- [Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }   -->
 [Read the Blog](./blog/index.md){ .md-button }
