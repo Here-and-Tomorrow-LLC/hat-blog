@@ -1,5 +1,7 @@
 # Scott Wilcox, Advisor / Consultant / CTO
 
+
+
 If you're facing any of these challenges, I can help:
 
 - **"We need tech leadership, but can't justify a full-time CTO"**:
@@ -48,5 +50,5 @@ An **AI & Technology Executive** with over 25 years of experience building scala
 
 I work with startups, enterprises, and government organizations to deliver **impactful solutions** that unlock growth, reduce costs, and drive innovation.
 
-[Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }  
+<!-- [Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }   -->
 [Read the Blog](./blog/index.md){ .md-button }

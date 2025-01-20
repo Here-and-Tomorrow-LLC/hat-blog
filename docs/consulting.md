@@ -33,7 +33,7 @@ My experience combines deep technical expertise with proven business impact:
   - Technical architecture and MLOps
   - Team building and technology strategy
 
-## Engagement Models
+<!-- ## Engagement Models
 
 I offer three flexible ways to work together:
 
@@ -54,7 +54,7 @@ I offer three flexible ways to work together:
     - Full technical partnership
     - Hands-on development
     - Team building & training
-    - Long-term transformation
+    - Long-term transformation -->
 
 All engagements include:
 
@@ -74,6 +74,9 @@ I've helped organizations across industries drive technological innovation:
 
 ## What Leaders Say
 
+### Scott Lipton, Founder & CEO at Ask Ida
+"As a non-technical startup founder building an AI app without a CTO,  I faced an uphill battle getting my MVP from design into production. Finding the right team, working with the engineers, and making software decisions each had significant challenges. Scott bridged this gap by translating complex technical decisions into clear business and strategy frameworks. He guided me through critical decision points by outlining key questions and helping me understand their implications for strategy, risk management, and team leadership. Thanks to his guidance, over five months we successfully developed the product and launched our first paid pilot."
+
 ### Alexandre Ackermans, VP Engineering at Maximizer CRM
 "Scott is a visionary leader with a rare combination of strategic thinking and hands-on expertise. His approach to leadership is both inclusive and inspiring, creating an environment where ideas flourish and innovation is the norm."
 
@@ -91,4 +94,4 @@ I'm committed to helping you succeed. While I can't guarantee specific outcomes,
 - Help you avoid costly mistakes
 - Accelerate your path to success
 
-[Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary }
+<!-- [Schedule a Consultation](https://cal.com/scott-wilcox/consultation){ .md-button .md-button--primary } -->
